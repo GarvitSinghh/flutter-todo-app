@@ -44,28 +44,25 @@ The application fetches user-specific tasks upon successful authentication and d
 <details>
 <summary> Hero Screen </summary>
 
-![Hero Screen|100](images/1.jpeg)
+<img src="https://raw.githubusercontent.com/GarvitSinghh/flutter-todo-app/main/images/1.jpeg" width="300">
 
 </details>
 
 <details>
 <summary> Login Screen </summary> 
 
-![Login Screen 1](images/2.jpeg)
-
-
-![Login Screen 2](images/2.1.jpeg)
+<img src="https://raw.githubusercontent.com/GarvitSinghh/flutter-todo-app/main/images/2.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/GarvitSinghh/flutter-todo-app/main/images/2.2.jpeg" width="300">
 
 </details>
 
 <details>
 <summary> Todo Screen </summary> 
 
-![Todo Screen 1](images/3.jpeg)
+<img src="https://raw.githubusercontent.com/GarvitSinghh/flutter-todo-app/main/images/3.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/GarvitSinghh/flutter-todo-app/main/images/3.2.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/GarvitSinghh/flutter-todo-app/main/images/3.3.jpeg" width="300">
 
-![Todo Screen 2](images/3.2.jpeg)
-
-![Todo Screen 3](images/3.3.jpeg)
 </details>
 
 ---
